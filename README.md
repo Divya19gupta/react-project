@@ -12,5 +12,5 @@ Welcome to my repository of ReactJS practice projects! This collection contains 
   - Toggle functionality for showing/hiding content.
 
 ### References
-[25-reactjs-interview-projects]: https://github.com/sangammukherjee/25-reactjs-interview-projects/blob/master/src/components/accordian/index.jsx
+https://github.com/sangammukherjee/25-reactjs-interview-projects/blob/master/src/components/accordian/index.jsx
 
